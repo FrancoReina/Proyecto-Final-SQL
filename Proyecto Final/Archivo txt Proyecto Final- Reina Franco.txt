@@ -1,0 +1,12 @@
+﻿Para la instalación correcta de la base de datos correspondiente a gyg_fiacas debemos seguir los siguientes pasos, antes de comenzar ingrese a la carpeta Proyecto Final SQL:
+
+
+1. Creacion de Tablas
+2. Insercion Tablas
+3. Creacion Vistas
+4. Creacion Funciones
+5. Creacion Stored Procedure
+6. Creacion Triggers
+7. Creacion DCL
+8. Creacion TCL
+9. Backup
